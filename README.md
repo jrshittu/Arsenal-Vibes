@@ -1,4 +1,4 @@
- **# Arsenal Vibes**
+# Arsenal Vibes
 
 **A bootstrap tutorial, source for the latest Arsenal news, transfers, videos, opinions, and more! a part of All you need to master Web development with HTML, CSS & Javascript Series.**
 
